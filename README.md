@@ -1,6 +1,7 @@
 # my-react-app
 使用creat-react-app和ant-design构建的react项目，加上nodejs制作的静态文件服务器，
-
+## 效果图
+![image](https://github.com/zhanghaizhi/my-react-app/blob/master/1.png)
 ##1.创建一个creat-react-app项目
 ```
 install -g creat-react-app
@@ -24,4 +25,6 @@ npm run eject
 这个项目是仿照别人写的京东的项目，使用了他提供的图片资源，和json数据
 项目地址是
 https://github.com/zf-huangxiao/react
+
+
 
