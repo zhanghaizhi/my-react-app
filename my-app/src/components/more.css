@@ -1,0 +1,17 @@
+.more_top{
+	overflow: hidden;
+}
+.more_link{
+	width:33%;
+	float: left;
+}
+.more_style{
+	width:50%;
+	float: left;
+}
+.more_middle{
+	overflow: hidden;
+}
+.more_bottom{
+	overflow: hidden;
+}

@@ -1,0 +1,67 @@
+#spike{
+	margin-top:5px;
+	padding:5px;
+	background-color: #fff;
+}
+.clock_icon{
+	width:18px;
+	height:22px;
+	background: url("../images/jd-sprites.png") no-repeat;
+	background-size:200px 200px;
+	background-position: -84px  -109px;
+	display: inline-block;
+	vertical-align: middle;
+    margin-top: -7px;
+}
+.spike_header{
+	overflow: hidden;
+	padding-top:10px;
+}
+.header_left{
+	float: left;
+}
+.header_right{
+	float: right;
+}
+.spike_title{
+	margin:10px 6px 0px 5px;
+	color:#ca1327;
+	font-size:15px;
+}
+.spike_time{
+	display: inline-block;
+}
+.spike_time span{
+	background-color: #3d3d3d;
+	color:#fff;
+	padding:3px;
+	border-radius: 5px;
+}
+.spike_content {
+    margin-top: 10px;
+    overflow: hidden;
+}
+.spike_content li{
+	width:33%;
+	text-align: center;
+	float: left;
+}
+.spike_content p{
+	margin-top: 8px;
+    color: #ed5657;
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 0px;
+}
+.spike_content div {
+    width: 100px;
+    display: inline-block;
+    border-right: 1px solid #f3f5f7;
+}
+.spike_content .real-price{
+	text-decoration: line-through;
+	color: #888;
+    font-size: 10px;
+    margin: 5px 0 12px 0;
+    text-align: center;
+}
