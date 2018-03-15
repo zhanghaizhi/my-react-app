@@ -2,7 +2,7 @@
 使用creat-react-app和ant-design构建的react项目，加上nodejs制作的静态文件服务器，
 ## 效果图
 ![image](https://github.com/zhanghaizhi/my-react-app/blob/master/1.png)
-##1.创建一个creat-react-app项目
+## 1.创建一个creat-react-app项目
 ```
 install -g creat-react-app
 ```
@@ -10,7 +10,7 @@ install -g creat-react-app
 create-react-app my-app
 ```
 
-##2，进入到my-app目录下，启动项目
+## 2，进入到my-app目录下，启动项目
 ```
 npm start
 ```
